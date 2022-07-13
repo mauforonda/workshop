@@ -1,0 +1,3 @@
+[submodule "20220712_covid19bo_udape/data/covid19-bo-casos_por_departamento"]
+	path = 20220712_covid19bo_udape/data/covid19-bo-casos_por_departamento
+	url = git@github.com:sociedatos/covid19-bo-casos_por_departamento.git

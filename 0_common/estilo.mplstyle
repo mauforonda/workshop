@@ -1,0 +1,29 @@
+font.family : NYTMag Sans WEB
+lines.color : 6a7aa6
+axes.prop_cycle: cycler('color', ['6a7aa6', 'cfa47e', '6dab90', 'c97586', '9a88a8', 'a68d88', 'bda2b7', 'adadad', 'd9c993', '86b8bd'])
+axes.facecolor : fcfcfc
+figure.facecolor : fcfcfc
+xtick.color : 88888f
+ytick.color : 88888f
+xtick.labelsize : 6
+ytick.labelsize : 6
+xtick.major.width : 0
+xtick.minor.width : 0
+ytick.major.width : 0
+ytick.minor.width : 0
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : False
+axes.spines.left : False
+grid.color : 464647
+grid.alpha : .4
+grid.linestyle : :
+grid.linewidth : .5
+legend.edgecolor : 88888f
+legend.facecolor : 88888f
+legend.labelcolor: 88888f
+legend.frameon : False
+legend.fancybox: False
+axes.labelcolor: 88888f
+axes.labelpad: 20
+axes.labelsize: 6
