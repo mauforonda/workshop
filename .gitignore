@@ -7,10 +7,14 @@
 !0_common
 
 !20220712_covid19bo_udape
-20220712_covid19bo_udape/data/history/
+20220712_covid19bo_udape/*
+!20220712_covid19bo_udape/explore.ipynb
 
 !20220715_incendios
-20220715_incendios/data
+20220715_incendios/*
+!20220715_incendios/plots
+20220715_incendios/incendios.ipynb
 
 !20220801_sequias
-20220801_sequias/data/
+20220801_sequias/*
+!20220801_sequias/descargar.ipynb
